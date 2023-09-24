@@ -1,0 +1,9 @@
+*.env
+*.csv
+*.pyc
+*.pyc
+*.json
+*.log
+*.zip
+*.txt
+*.html

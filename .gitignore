@@ -30,3 +30,13 @@ env/
 
 # Config File
 **/config.json
+
+# Gen
+*.env
+*.pyc
+*.pyc
+*.json
+*.log
+*.zip
+*.txt
+*.html
